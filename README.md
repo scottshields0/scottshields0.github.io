@@ -1,2 +1,3 @@
 # scottshields0.github.io
-Website for Personal Portfolio
+## Who I am
+My name is Scott Shields and I am a senior Computer Science student minoring in Artificial Intelligence and Cybersecurity at Clemson University. This fall, I am working on an industry-embedded capstone project with the IT consulting company Capgemini, where we are working on creating an autonomous agent network to elevate overall eCommerce experience. This past spring, I interned at Bosch Rexroth as a Facilities Management and Training Applications co-op, where I worked on numerous projects, including an automated charity workflow which raised $7,500 for the South Carolina based nonprofit Rebuild Upstate. I will be returning to Bosch Rexroth in the spring, until I graduate in May 2027. I am pursuing a full-time entry-level role upon my graduation, where I will be able to contribute my skills to a larger cause, learn, and help find real solutions to business problems.
